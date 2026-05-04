@@ -1,0 +1,1 @@
+print("nabi khan wazir dothani ")
